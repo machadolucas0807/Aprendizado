@@ -1,3 +1,4 @@
-Linguagem Markdown
-**Negrito**
-*Italico*
+**Negrito**,
+*Italico*,
+~~Riscado~~
+
