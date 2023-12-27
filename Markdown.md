@@ -1,4 +1,0 @@
-**Negrito**,
-*Italico*,
-~~Riscado~~
-
